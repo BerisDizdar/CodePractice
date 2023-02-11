@@ -8,7 +8,7 @@ git add .
 
 git status (optional)
 
-git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with (It’s optional))
+git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with (It’s NOT optional))
 
 git remote add origin  ‘then add https:// link from your GitHub account’	(Example ‘git remote add origin git https://github.com/BerisDizdaz/CodePractice.git')
 
