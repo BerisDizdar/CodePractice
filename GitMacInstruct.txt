@@ -1,4 +1,4 @@
-cd desktop/‘folder name’	Exmaple- ‘MorePractice’ (This is a folder)
+Git cd desktop/‘folder name’	Example- ‘MorePractice’ (This is a folder)
 
 git init (Only if it’s firs time working with file)
 
@@ -8,8 +8,8 @@ git add .
 
 git status (optional)
 
-git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with (It’s optional))
+git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with(It must be added)) 
 
-git remote add origin  ‘then add https:// link from your GitHub account’	(Example ‘git remote add origin git https://github.com/BerisDizdaz/CodePractice.git')
+git remote add origin  ‘then add https:// link from your GitHub account’	(Example ‘git remote add origin git https://github.com/BerisDizdaz/CodePractice.git') (Only have to do this the first time you connect git to GitHub.)
 
-git push -u origin main
+git push -u origin main (only need to specify 'main' the first time) 
