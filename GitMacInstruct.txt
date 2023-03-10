@@ -12,4 +12,4 @@ git commit -m ‘Text File’	(The ‘Text File’ is a description of the file 
 
 git remote add origin  ‘then add https:// link from your GitHub account’	(Example ‘git remote add origin git https://github.com/BerisDizdaz/CodePractice.git')
 
-git push -u origin main
+git push -u origin main (only need to specify 'main' the first time) 
