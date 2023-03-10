@@ -1,3 +1,7 @@
 Coding is Fun!
 
+<<<<<<< HEAD
 I'm really enjoying it so far. 
+=======
+I'm really enjoying it so far.
+>>>>>>> f0e4d82f856408d0507e64f4332289a1935923bc

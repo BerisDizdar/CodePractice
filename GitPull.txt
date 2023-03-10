@@ -1,0 +1,5 @@
+Pull from GitHub
+
+git pull http://from your repository in GitHub		(Example ’https://github.com/BerisDizdar/Testing.git')
+
+git status (To check and make sure the pull worked)
