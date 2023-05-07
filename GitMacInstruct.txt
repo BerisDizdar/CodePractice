@@ -1,10 +1,11 @@
 First Time Using Git Set Global Instructions
- git config --global user.name "Beris Dizdar" (What ever your name is)
+ git config --global user.name "Beris Dizdar" (Whatever your name is)
 	press enter
  git confit --global user.email berisd2010@gmail.com (Your email)
+	press enter
 
-
-Git cd desktop/‘folder name’	Example- ‘MorePractice’ (This is a folder)
+To get into a specific folder using Terminal (cd means 'Change Directory)
+Use cd ~/Desktop/desired folder Example - cd ~/Desktop/CodePr (CodePr is a folder on the desktop)
 
 git init (Only if it’s firs time working with file)
 
