@@ -1,3 +1,9 @@
+First Time Using Git Set Global Instructions
+ git config --global user.name "Beris Dizdar" (What ever your name is)
+	press enter
+ git confit --global user.email berisd2010@gmail.com (Your email)
+
+
 Git cd desktop/‘folder name’	Example- ‘MorePractice’ (This is a folder)
 
 git init (Only if it’s firs time working with file)
@@ -8,16 +14,9 @@ git add .
 
 git status (optional)
 
-<<<<<<< HEAD
-git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with(It must be added)) 
-=======
-git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with (It’s NOT optional))
->>>>>>> f0e4d82f856408d0507e64f4332289a1935923bc
+git commit -m ‘Text File’	(The ‘Text File’ is a description of the file you’re working with(It must be added)) (It’s NOT optional))
 
 git remote add origin  ‘then add https:// link from your GitHub account’	(Example ‘git remote add origin git https://github.com/BerisDizdaz/CodePractice.git') (Only have to do this the first time you connect git to GitHub.)
 
-<<<<<<< HEAD
 git push -u origin main (only need to specify 'main' the first time) 
 =======
-git push -u origin main (only need to specify 'main' the first time) 
->>>>>>> f0e4d82f856408d0507e64f4332289a1935923bc
